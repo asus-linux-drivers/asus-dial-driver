@@ -5,4 +5,4 @@
 
 ## Credits
 
-Thank you very much all the contributors of [fredaime/openwheel](https://github.com/fredaime/openwheel) for your work.
+Already exists project [fredaime/openwheel](https://github.com/fredaime/openwheel).
